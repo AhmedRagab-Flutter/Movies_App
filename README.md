@@ -1,4 +1,4 @@
-# final_iti_project
+# Movies App
 
 A new Flutter project.
 
