@@ -7,8 +7,6 @@ A new Flutter project.
 <img src="Screenshot_2025-03-27-18-24-28-48_6d88b8e42a44419b7fc75e38aab4013a.jpg" alt="Screenshot" width="300">
 <img src="Screenshot_2025-03-27-18-24-41-25_6d88b8e42a44419b7fc75e38aab4013a.jpg" alt="Screenshot" width="300">
 
-# Download the App
-[Download APK](https://github.com/AhmedRagab-Flutter/Movies_App/releases/tag/v1.0.0/app-release.apk)
 
 ## Getting Started
 
